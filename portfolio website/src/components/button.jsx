@@ -3,7 +3,7 @@ import "./button.css";
 const ButtonCV = () => {
 	return (
 		<a
-			href="Myresume2.pdf"
+			href="Myresume3.pdf"
 			target="_blank"
 			className="button-cv group"
 		>
