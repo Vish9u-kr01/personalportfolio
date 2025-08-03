@@ -35,7 +35,7 @@ import WINDOWS from './assets/windows.png';
 
 const App = () => {
   const [text] = useTypewriter({
-    words: ["Student", "Front-End Developer","UI/UX Designer","Web developer","Video-Editor"],
+    words: ["Student", "Front-End Developer","Backend Developer","Full Stack Developer","MERN Stack Developer","UI/UX Designer"],
     loop: {},
   });
   return (
@@ -155,3 +155,4 @@ const App = () => {
 };
 
 export default App;
+
