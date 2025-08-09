@@ -11,7 +11,7 @@ const Card = () => {
       accessible, and data-driven health insights
         </p>
       </div>
-      <a href="https://health-ai-frontend-vaqc.vercel.app/">
+      <a href="https://health-ai-jade-eight.vercel.app/">
       <button className="card-button">  
         <p>Visit</p>     
         <svg
