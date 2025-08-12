@@ -92,13 +92,13 @@ section {
 }
 
 section:nth-child(even) {
-  background: linear-gradient(to bottom, #2b237b, #2e1a5f);
+  background: linear-gradient(to bottom, #130f40, #2e1a5f);
 }
 
 section h2 {
   font-size: 3rem;
   margin-bottom: 20px;
-  background: linear-gradient(to right, #5b8dfd, #d16ba5);
+  background: linear-gradient(to right, #130f40, #d16ba5);
   -webkit-background-clip: text;
   color: transparent;
 }
@@ -291,6 +291,7 @@ footer {
     font-size: 1.6rem;
   }
 }
+
 
 
 
