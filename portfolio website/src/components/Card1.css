@@ -47,6 +47,8 @@
     overflow: hidden;
     width: fit-content;
     height: fit-content;
+    background: linear-gradient(to bottom, #130f40, #2e1a5f);
+    color: white;
   }
   
   .card-button:hover {
@@ -62,4 +64,5 @@
   .card-button:hover .card-icon {
     transform: translateX(10%);
   }
+
   
