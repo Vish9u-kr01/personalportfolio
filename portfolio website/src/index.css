@@ -91,9 +91,7 @@ section {
   text-align: center;
 }
 
-section:nth-child(even) {
-  background: linear-gradient(to bottom, #130f40, #2e1a5f);
-}
+
 
 section h2 {
   font-size: 3rem;
@@ -291,6 +289,7 @@ footer {
     font-size: 1.6rem;
   }
 }
+
 
 
 
