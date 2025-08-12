@@ -91,6 +91,10 @@ section {
   text-align: center;
 }
 
+section:nth-child(even) {
+      
+  background: linear-gradient(to bottom, #302b63, #24243e);
+}
 
 
 section h2 {
