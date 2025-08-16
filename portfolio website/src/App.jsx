@@ -124,11 +124,11 @@ const App = () => {
         <Card4/>  
         </div>
 
-        <div>
+        <div className="project-card">
           <Card5/>
         </div>
 
-         <div>
+         <div className="project-card">
           <Card6/>
         </div>
         
@@ -155,4 +155,5 @@ const App = () => {
 };
 
 export default App;
+
 
