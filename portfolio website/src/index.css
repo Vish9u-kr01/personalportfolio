@@ -87,13 +87,13 @@ nav ul li a:hover {
 /* SECTIONS */
 section {
   padding: 80px 20px;
-  background: linear-gradient(to bottom, #130f40 #2e1a5f);
+  background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
   text-align: center;
 }
 
 section:nth-child(even) {
       
-  background: linear-gradient(to bottom, #130f40 #2e1a5f);
+  background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
 ;
 }
 
@@ -294,6 +294,7 @@ footer {
     font-size: 1.6rem;
   }
 }
+
 
 
 
