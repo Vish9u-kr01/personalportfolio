@@ -10,7 +10,7 @@ const Card = () => {
       A real-time event listing platform that automatically scrapes event data from any City,User can explore and buy tickets.
         </p>
       </div>
-      <a href="https://event-scrapper-web-app-seven.vercel.app/">
+      <a href="https://event-scrapper-three.vercel.app/">
       <button className="card-button">  
         <p>Visit</p>     
         <svg
@@ -35,4 +35,5 @@ const Card = () => {
 };
 
 export default Card;
+
 
